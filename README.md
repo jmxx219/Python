@@ -1,2 +1,2 @@
 # Python
-Script Programming
+Script Programming_2020_2학기
